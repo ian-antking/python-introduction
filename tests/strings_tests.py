@@ -1,8 +1,7 @@
 import unittest
-from src import strings
+from python_introduction import strings
 
 class TestStrings(unittest.TestCase):
-  # test the say_hello function
   def test_say_hello(self):
     self.assertEqual(strings.say_hello('World'), 'Hello, World!')
 
