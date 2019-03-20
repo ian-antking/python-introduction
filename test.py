@@ -26,3 +26,4 @@ def numbers_suite():
 if __name__ == '__main__': 
   # strings_suite()
   # numbers_suite()
+  print('Uncomment test suites in test.py to run')
