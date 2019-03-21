@@ -104,7 +104,7 @@ class TestBooleans(unittest.TestCase):
   def test_starts_with_2(self):
     self.assertEqual(booleans.starts_with('Hello', 'H'), True)
 
-  def test_starts_with_2(self):
+  def test_starts_with_3(self):
     self.assertEqual(booleans.starts_with('Hello', 3), False)
 
   def test_is_lower_1(self):
