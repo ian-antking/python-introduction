@@ -1,9 +1,9 @@
 def first_element(array):
   # return the first element of the array
-  return
+  return 
 
 def last_element(array):
-  # return the last element of the arrar
+  # return the last element of the array
   return
 
 def specific_element(array, index):
@@ -11,11 +11,12 @@ def specific_element(array, index):
   return
 
 def add_to_array(array, element):
-  # add the element to the end of the array
+  # add the element to the end of the array and return it
   return
 
-def remove_nth_element(array, n):
-  # removed the element at the position specified in n
+def remove_nth_element(array, index):
+  # removed the element at the position specified in the inded and return the array
+
   return
 
 def remove_specific_element(array, element):
@@ -23,12 +24,12 @@ def remove_specific_element(array, element):
   return
 
 def number_to_strings(array):
-  # convert the numbers in the array to strings
+  # convert the numbers in the array to strings and return them as a new array
   return
 
 def to_upper_case(array):
   # convert the strings in the array to uppercase
-  return 
+  return
 
 def only_even(array):
   # return a make a new list from the array with only even numbers
@@ -36,6 +37,7 @@ def only_even(array):
 
 def sort(array):
   # return the array with the strings sorted into alphabetical order
+
   return
 
 def sum_numbers(array):
