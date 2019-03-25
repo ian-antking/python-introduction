@@ -43,7 +43,7 @@ if __name__ == '__main__':
   # REMOVE THE # FROM THE LINES BELOW TO RUN TESTS 
 
   # strings_suite()
-  # numbers_suite()
+  numbers_suite()
   # booleans_suite()
   # lists_suite()
   print('Uncomment test suites in test.py to run')
