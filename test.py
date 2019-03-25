@@ -45,5 +45,5 @@ if __name__ == '__main__':
   # strings_suite()
   # numbers_suite()
   # booleans_suite()
-  lists_suite()
+  # lists_suite()
   print('Uncomment test suites in test.py to run')
